@@ -13,7 +13,7 @@
 ```
 go install github.com/your-username/mtimeout@latest
 ```
-(または、リポジトリをクローンして go build -o mtimeout を実行してください)
+(または、リポジトリをクローンして`go build -o mtimeout`を実行してください)
 
 ## 使い方
 
